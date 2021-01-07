@@ -118,7 +118,7 @@ Pronto se tudo ocorrer conforme o 🙌 esperado 🎊 a imagem editada será salv
 <br/>
 
 >Se assim como eu, você é utilitário do KDE com interface `plasma` então ao executar o script `RUN_App.sh` aparecerá uma simples mensagem popup informando que a(s) imagem(ns) foi/foram editada(s) ...
-<img src="./.github/kdialog.png">
+<img align="center" src="./.github/kdialog.png">
 
 <br/>
 <br/>
