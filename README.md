@@ -30,10 +30,10 @@ Criando um wallpaper simples com efeito blur, utilizando imagemagick junto com n
 </br>
 
 <h4 align="center"><b>Imagem Original</b></h4>
-<img src="./.github/original.jpg" style="width:100%; border: 2px solid black; border-radius: 8px;">
+<img src="./.github/original.png" style="width:100%">
 
 <h4 align="center"><b>Imagem Convertida</b></h4>
-<img src="./.github/original-converted.png" style="width:100%; border: 2px solid black; border-radius: 8px;">
+<img src="./.github/original-converted.png" style="width:100%;">
 
 
 </br>
@@ -64,9 +64,7 @@ Antes você deve clonar este repositório. E para isso existe diversas formas de
 
 3. Baixando arquivo `.zip` 
 	> Basta clicar la no inicio da pagina no botão <kbd>code</kbd> e depois em <kbd>Download ZIP</kbd>
-	<br/>
-	ou
-	basta clicar [Aqui](https://github.com/AntonioNarcilio/imagemagick-effect-blur/archive/main.zip)
+	>ou basta clicar [Aqui](https://github.com/AntonioNarcilio/imagemagick-effect-blur/archive/main.zip)
 
 	>Ai é so descompactar o arquivo `.zip` que você verá uma pasta com o nome do repositório `imagemagick-effect-blur`.
 
