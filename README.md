@@ -66,7 +66,7 @@ Antes você deve clonar este repositório. E para isso existe diversas formas de
 	> Basta clicar la no inicio da pagina no botão <kbd>code</kbd> e depois em <kbd>Download ZIP</kbd>
 	<br/>
 	ou
-	basta clicar aqui [Download](https://github.com/AntonioNarcilio/imagemagick-effect-blur/archive/main.zip)
+	basta clicar [Aqui](https://github.com/AntonioNarcilio/imagemagick-effect-blur/archive/main.zip)
 
 	>Ai é so descompactar o arquivo `.zip` que você verá uma pasta com o nome do repositório `imagemagick-effect-blur`.
 
