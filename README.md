@@ -1,7 +1,8 @@
 
-<h3 align="center">Criando um wallpaper simples com efeito blur, utilizando imagemagick junto com node.js</h3>
+<h3 align="center">Criando um simples papel de parede com efeito blur no plano de fundo utilizando imagemagick junto com node.js</h3>
 
-<br/>
+---
+
 <br/>
 <p align="center">
 <a href="https://nodejs.org/en/">
