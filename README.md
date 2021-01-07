@@ -6,8 +6,21 @@
 </a>
 
 <a href="https://imagemagick.org">
- <img alt="ImageMagick" title="ImageMagick" src="https://img.shields.io/static/v1?label=image%20magick&message=command-line%20image%20editor&color=FEF88A&labelColor=535CD8&style=flat&logo=image/png;base64,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&logoColor=white" />
+ <img alt="ImageMagick" title="ImageMagick" src="https://img.shields.io/static/v1?label=image%20magick&message=command-line%20image%20editor&color=FEF88A&labelColor=535CD8&style=flat&logo=data:image/png;base64,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&logoColor=white" />
 </a>
+
+
+<img alt="GitHub repo size" title="GitHub repo size" src="https://img.shields.io/github/repo-size/AntonioNarcilio/imagemagick-effect-blur?color=FEF88A&labelColor=535CD8&logo=GitHub&logoColor=white" />
+
+<a href="https://github.com/AntonioNarcilio/imagemagick-effect-blur/blob/master/LICENSE">
+ <img src="https://img.shields.io/github/license/AntonioNarcilio/imagemagick-effect-blur?label=license&color=FEF88A&labelColor=535CD8" alt="license"/>
+</a>
+
+<img alt="GitHub last commit" title="GitHub last commit" src="https://img.shields.io/github/last-commit/AntonioNarcilio/imagemagick-effect-blur?&color=FEF88A&labelColor=535CD8" />
+
+<img alt="GitHub language coun" title="GitHub language coun" src="https://img.shields.io/github/languages/count/AntonioNarcilio/imagemagick-effect-blur?&color=FEF88A&labelColor=535CD8" />
+
+<img alt="GitHub top language" title="GitHub top language" src="https://img.shields.io/github/languages/top/AntonioNarcilio/imagemagick-effect-blur?&color=FEF88A&labelColor=535CD8" />
 
 </p>
 
@@ -23,8 +36,44 @@
 </br>
 </br>
 
+> ⚠ **Atenção**: Antes de prosseguir com o passo a passo descrito abaixo, você precisa ter instalado em sua máquina o [Node Js](https://nodejs.org/en/download/) o [ImageMagick](https://imagemagick.org/script/download.php) e caso queira, o gerenciador de pacote [Yarn](https://yarnpkg.com/getting-started/install).
+<br>
+Se não for o seu caso 😎 então você já pode prosseguir 👍
 
-Mova a(s) imagem(ns) que deseja criar o(s) *"wallpaper(s)"* para o diretório <kbd>public</kbd> / <kbd>img-original</kbd>, e então siga um dos passos a passo descrito abaixo 👇.
+---
+
+<br/>
+
+## **Clonando o repositório**
+Antes você deve clonar este repositório. E para isso existe diversas formas de se fazer.
+
+1. Clonando via `https`:
+	> Execute no terminal
+	~~~bash
+	git clone https://github.com/AntonioNarcilio/imagemagick-effect-blur.git
+	~~~
+
+2. Clonando via `ssh` *preferencialmente**:
+	> Execute no terminal
+	~~~bash
+	git clone git@github.com:AntonioNarcilio/imagemagick-effect-blur.git
+	~~~
+
+3. Baixando arquivo `.zip` 
+	> Basta clicar la no inicio da pagina no botão <kbd>code</kbd> e depois em <kbd>Download ZIP</kbd>
+	<br/>
+	ou
+	basta clicar aqui [Download](https://github.com/AntonioNarcilio/imagemagick-effect-blur/archive/main.zip)
+
+	>Ai é so descompactar o arquivo `.zip` que você verá uma pasta com o nome do repositório `imagemagick-effect-blur`.
+
+<br/>
+
+---
+
+## **Criando o wallpaper**
+
+Dentro do diretório/pasta criado ao clona/baixar. Mova a(s) imagem(ns) que deseja criar o(s) *"wallpaper(s)"* para o diretório <kbd>public</kbd> / <kbd>img-original</kbd>, e então siga um dos passos a passo descrito abaixo 👇.
 
 <br/>
 
@@ -64,3 +113,10 @@ yarn run start
 <br/>
 
 Pronto se tudo ocorrer conforme o 🙌 esperado 🎊 a imagem editada será salva no diretório 🗂 <kbd>public</kbd> / <kbd>img-edited</kbd> 
+
+
+
+<br/>
+<br/>
+
+Created with ❤ by **Antônio Narcilio**
