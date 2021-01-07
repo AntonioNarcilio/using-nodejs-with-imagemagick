@@ -1,6 +1,9 @@
-### Criando um wallpaper simples com efeito blur utilizando imagemagick junto com node.js
-
 <p align="center">
+Criando um wallpaper simples com efeito blur, utilizando imagemagick junto com node.js
+
+<br/>
+<br/>
+
 <a href="https://nodejs.org/en/">
  <img alt="Node js" title="node js" src="https://img.shields.io/static/v1?label=node%20js&message=javascript%20runtime%20environment&color=FEF88A&labelColor=535CD8&style=flat&logo=node.js&logoColor=white" />
 </a>
@@ -114,7 +117,10 @@ yarn run start
 
 Pronto se tudo ocorrer conforme o 🙌 esperado 🎊 a imagem editada será salva no diretório 🗂 <kbd>public</kbd> / <kbd>img-edited</kbd> 
 
+<br/>
 
+>Se assim como eu, você é utilitário do KDE com interface `plasma` então ao executar o script `RUN_App.sh` aparecerá uma simples mensagem popup informando que a(s) imagem(ns) foi/foram editada(s) ...
+<img src="./.github/kdialog.png">
 
 <br/>
 <br/>
